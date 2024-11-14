@@ -8,31 +8,45 @@
 
 #include <SPI.h>
 #include <LoRa.h>
-
+int counter = 0;
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(115200);
+  Serial.println("Serial begin");
   while (Serial == 0);
- 
+
   LoRa.setPins(18, 23, 26);
-  Serial.println("LoRa Receiver");
+  Serial.println("SetPin");
 
 
   if (LoRa.begin(868E6) == 0) {
     Serial.println("Starting LoRa failed!");
     while (1);
   }
-
-
+  analogReadResolution(1); //ustawienie rozdzielczości pinu, w tym przypadku 1bit
+  pinMode(A12, INPUT_PULLUP);
+  Serial.println("End Setup");
 }
 
 void loop() {
-  // try to parse packet
-  void ReciveData()
- 
+
+  Serial.println(ReadPin());
+  delay(1000);
 }
 
 void SendData(){
-
+  Serial.print("Sending packet: ");
+  // send packet
+  LoRa.beginPacket();
+  if(ReadPin()==1){
+    LoRa.print("OPEN");
+    Serial.print("OPEN");
+  }
+  else{
+    LoRa.print("CLOSE");
+    Serial.print("CLOSE");
+  }
+  Serial.print("hello Szczepan Wariacie 69 xD ");
+  LoRa.endPacket();
 }
 
 void ReciveData(){
@@ -54,3 +68,15 @@ void ReciveData(){
   }
 }
 
+
+int ReadPin(){
+  int analogValue = analogRead(0);
+  if(analogValue==1){
+    Serial.println("OPEN");
+    return 1;
+  }
+  else{
+    Serial.println("CLOSE");
+    return 0;
+  }
+}
