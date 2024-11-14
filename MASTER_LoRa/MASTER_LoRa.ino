@@ -64,9 +64,9 @@ void loop() {
 
   LoRa.beginPacket();
   LoRa.print("hello Szczepan Wariacie 69 xD GOMBAO 33 KURFO");
-  Serial.print("hello Szczepan Wariacie 69 xD ");
+  Serial.println("hello Szczepan Wariacie 69 xD ");
   LoRa.print(counter);
-  Serial.print(counter);
+  Serial.println(counter);
   LoRa.endPacket();
  */
   counter++;
