@@ -25,18 +25,24 @@ void setup() {
   analogReadResolution(1); //ustawienie rozdzielczości pinu, w tym przypadku 1bit
   pinMode(A12, INPUT_PULLUP);
   Serial.println("End Setup");
+  pinMode(A14, OUTPUT);
 }
 
 void loop() {
+  if(ReadPin()==0){
+    SendData();
+  }
 
-  Serial.println(ReadPin());
-  delay(1000);
+  ReciveData();
 }
 
 void SendData(){
+  int counter;
+  counter++;
   Serial.print("Sending packet: ");
   // send packet
   LoRa.beginPacket();
+  /*
   if(ReadPin()==1){
     LoRa.print("OPEN");
     Serial.print("OPEN");
@@ -45,6 +51,9 @@ void SendData(){
     LoRa.print("CLOSE");
     Serial.print("CLOSE");
   }
+  */
+  LoRa.print(counter);
+  LoRa.print("hello Szczepan Wariacie 69 xD");
   Serial.print("hello Szczepan Wariacie 69 xD ");
   LoRa.endPacket();
 }
@@ -72,11 +81,14 @@ void ReciveData(){
 int ReadPin(){
   int analogValue = analogRead(0);
   if(analogValue==1){
-    Serial.println("OPEN");
     return 1;
   }
   else{
-    Serial.println("CLOSE");
     return 0;
   }
 }
+
+void WritePin(int variable){
+  analogWrite(A14, variable);
+}
+
