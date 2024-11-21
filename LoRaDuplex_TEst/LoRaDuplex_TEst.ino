@@ -20,11 +20,25 @@ const int irqPin = 1;         // change for your board; must be a hardware inter
 
 String outgoing;              // outgoing message
 
-byte msgCount = 0;            // count of outgoing messages
+int msgCount = 0;            // count of outgoing messages
 byte localAddress = 0xBB;     // address of this device
 byte destination = 0xFF;      // destination to send to
 long lastSendTime = 0;        // last send time
 int interval = 2000;          // interval between sends
+int PreviousId;
+
+enum Status { ERROR, PASSED}; 
+
+enum Status CheckStatus(int CurrentId){
+  if (CurrentId-PreviousId>1) {
+    PreviousId = CurrentId; 
+    return PASSED; 
+  } 
+  else { 
+    PreviousId = CurrentId;
+    return ERROR; 
+  } 
+}
 
 void setup() {
   Serial.begin(115200);
@@ -49,17 +63,21 @@ void setup() {
 }
 
 void loop() {
-  if (millis() - lastSendTime > interval) {
-    String message = "HeLoRa World Prawa plyta!";   // send a message
+  Send("Pakiet");
+  onReceive(LoRa.parsePacket());
+}
+
+
+void Send(String message){
+    if (millis() - lastSendTime > interval) {
     sendMessage(message);
     Serial.println("Sending " + message);
     lastSendTime = millis();            // timestamp the message
     interval = random(2000) + 1000;    // 2-3 seconds
   }
-
-  // parse for a packet, and call onReceive with the result:
-  onReceive(LoRa.parsePacket());
 }
+
+
 
 void sendMessage(String outgoing) {
   LoRa.beginPacket();                   // start packet
@@ -72,14 +90,19 @@ void sendMessage(String outgoing) {
   msgCount++;                           // increment message ID
 }
 
+
+
+
+
 void onReceive(int packetSize) {
   if (packetSize == 0) return;          // if there's no packet, return
 
   // read packet header bytes:
   int recipient = LoRa.read();          // recipient address
   byte sender = LoRa.read();            // sender address
-  byte incomingMsgId = LoRa.read();     // incoming msg ID
+  byte INcounter = LoRa.read();     // incoming msg ID
   byte incomingLength = LoRa.read();    // incoming msg length
+
 
   String incoming = "";
 
@@ -99,13 +122,31 @@ void onReceive(int packetSize) {
   }
 
   // if message is for this device, or broadcast, print details:
-  Serial.println("Received from: 0x" + String(sender, HEX));
-  Serial.println("Sent to: 0x" + String(recipient, HEX));
-  Serial.println("Message ID: " + String(incomingMsgId));
-  Serial.println("Message length: " + String(incomingLength));
-  Serial.println("Message: " + incoming);
-  Serial.println("RSSI: " + String(LoRa.packetRssi()));
-  Serial.println("Snr: " + String(LoRa.packetSnr()));
-  Serial.println();
+  //Serial.println("Received from: 0x" + String(sender, HEX));
+  //Serial.println("Sent to: 0x" + String(recipient, HEX));
+  if(CheckStatus(INcounter) == PASSED){
+    Serial.print("PASSED");
+  }else{
+    Serial.println();
+    Serial.println();
+    Serial.println();
+    Serial.println();
+    Serial.print("----------ERROR-----------");
+    Serial.println();
+    Serial.println();
+    Serial.println();
+    Serial.println();
+  }
+
+  Serial.print("Message ID: " + String(INcounter));
+  Serial.print("---");
+  Serial.print("Message length: " + String(incomingLength));
+  Serial.print("---");
+  Serial.print("Message: " + incoming);
+  Serial.print("---");
+  Serial.print("RSSI: " + String(LoRa.packetRssi()));
+  Serial.print("---");
+  Serial.print("Snr: " + String(LoRa.packetSnr()));
+  Serial.println();    
 }
 
