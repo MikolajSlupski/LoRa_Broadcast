@@ -29,14 +29,14 @@ int PreviousId;
 
 enum Status { ERROR, PASSED}; 
 
-enum Status CheckStatus(int CurrentId){
+enum Status CheckID(int CurrentId){
   if (CurrentId-PreviousId>1) {
     PreviousId = CurrentId; 
-    return PASSED; 
+    return ERROR; 
   } 
   else { 
     PreviousId = CurrentId;
-    return ERROR; 
+    return PASSED; 
   } 
 }
 
@@ -63,7 +63,7 @@ void setup() {
 }
 
 void loop() {
-  Send("Pakiet");
+  //Send("Pakiet");
   onReceive(LoRa.parsePacket());
 }
 
@@ -124,14 +124,14 @@ void onReceive(int packetSize) {
   // if message is for this device, or broadcast, print details:
   //Serial.println("Received from: 0x" + String(sender, HEX));
   //Serial.println("Sent to: 0x" + String(recipient, HEX));
-  if(CheckStatus(INcounter) == PASSED){
-    Serial.print("PASSED");
+  if(CheckID(INcounter) == PASSED){
+    Serial.println("PASSED");
   }else{
     Serial.println();
     Serial.println();
     Serial.println();
     Serial.println();
-    Serial.print("----------ERROR-----------");
+    Serial.println("----------ERROR-----------");
     Serial.println();
     Serial.println();
     Serial.println();
@@ -139,13 +139,13 @@ void onReceive(int packetSize) {
   }
 
   Serial.print("Message ID: " + String(INcounter));
-  Serial.print("---");
+  Serial.print("   ");
   Serial.print("Message length: " + String(incomingLength));
-  Serial.print("---");
+  Serial.print("   ");
   Serial.print("Message: " + incoming);
-  Serial.print("---");
+  Serial.print("   ");
   Serial.print("RSSI: " + String(LoRa.packetRssi()));
-  Serial.print("---");
+  Serial.print("   ");
   Serial.print("Snr: " + String(LoRa.packetSnr()));
   Serial.println();    
 }
