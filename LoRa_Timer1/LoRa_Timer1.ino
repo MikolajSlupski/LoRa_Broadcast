@@ -14,6 +14,8 @@
 #include <SPI.h>              // include libraries
 #include <LoRa.h>
 
+#define TEST_MESSAGE "Wiadomosc Testowa"
+
 const int csPin = 7;          // LoRa radio chip select
 const int resetPin = 6;       // LoRa radio reset
 const int irqPin = 1;         // change for your board; must be a hardware interrupt pin
@@ -29,7 +31,8 @@ int PreviousId;
 
 int sending_flag;
 int reciving_flag;
-int r_time;
+int test_flag = 0;
+uint64_t r_time;
 
 int counter = 0;
 esp_timer_handle_t timer;  // Uchwyt timera, tworzenie, uruchamianie i zatrzymywanie
@@ -51,7 +54,6 @@ enum Status CheckID(int CurrentId){
 }
 
 void IRAM_ATTR onTimer(void* arg) { //IRAM_ATTR - onTimer jest umieszczany w RAM
-  endTime = esp_timer_get_time() - startTime; // Odliczony czas od startu w mikrosekundach
   Serial.println("---------ERROR_TIME_OUT---------");
 }
 
@@ -81,8 +83,8 @@ void sendMessage(String outgoing) {
   msgCount++;                           // increment message ID
 }
 
-void onReceive(int packetSize) {
-  if (packetSize == 0) return;          // if there's no packet, return
+String onReceive(int packetSize) {
+  if (packetSize == 0) return "NO_PACKET";          // if there's no packet, return
 
   // read packet header bytes:
   int recipient = LoRa.read();          // recipient address
@@ -99,13 +101,13 @@ void onReceive(int packetSize) {
 
   if (incomingLength != incoming.length()) {   // check length for error
     Serial.println("error: message length does not match length");
-    return;                             // skip rest of function
+    return "ERROR_LENGTH";                             // skip rest of function
   }
 
   // if the recipient isn't this device or broadcast,
   if (recipient != localAddress && recipient != 0xFF) {
     Serial.println("This message is not for me.");
-    return;                             // skip rest of function
+    return "ERROR_ADDRES";                             // skip rest of function
   }
 
   // if message is for this device, or broadcast, print details:
@@ -135,6 +137,8 @@ void onReceive(int packetSize) {
   Serial.print("   ");
   Serial.print("Snr: " + String(LoRa.packetSnr()));
   Serial.println();    
+
+  return incoming;
 }
 
 
@@ -175,6 +179,15 @@ void setup() {
   Serial.println("LoRa init succeeded.");
 }
 
+void random_delay(uint minimum_ms, uint random_ms){
+
+  // Generowanie losowego opóźnienia
+  r_time = random(random_ms) + minimum_ms;
+  Serial.print("Delay Time: ");
+  Serial.println(r_time);
+  delay(r_time); 
+}
+
 void loop() {
   // Zatrzymaj timer, jeśli jest aktywny
   if (esp_timer_is_active(timer)) {
@@ -191,30 +204,35 @@ void loop() {
     Serial.println(startTime);
 
     Serial.println("Sending");
+    sendMessage(TEST_MESSAGE);
     reciving_flag = 1;
     sending_flag = 0;
 
-    // Generowanie losowego opóźnienia
-    r_time = random(1000) + 9500;        // Zakres 9.5 - 10.5 sekundy
-    Serial.print("Delay Time: ");
-    Serial.println(r_time);
-    delay(r_time);                       // Symulacja opóźnienia
+    random_delay(9000,1000);               // Symulacja opóźnienia
+    test_flag = 1;
   }
   // Obsługa odbierania
   else if (reciving_flag == 1 && sending_flag == 0) {
-    Serial.print("Faktyczny END_TIME: ");
-    Serial.println(esp_timer_get_time());
-    endTime = esp_timer_get_time() - startTime; // Oblicz czas od startu timera
-    Serial.print("Czas wysłania: ");
-    Serial.println(String(endTime));
+    if(onReceive(LoRa.parsePacket()) == TEST_MESSAGE || test_flag == 1 ){
+      Serial.print("Faktyczny END_TIME: ");
+      Serial.println(esp_timer_get_time());
+      endTime = esp_timer_get_time() - startTime; // Oblicz czas od startu timera
+      Serial.print("Czas wysłania: ");
+      Serial.println(endTime);
 
-    reciving_flag = 0;
-    sending_flag = 1;
-    Serial.println("----------END----------");
+      Serial.print("Czas funkcji: ");
+      Serial.println((endTime/1000) - r_time);
 
-    // Zatrzymaj timer
-    if (esp_timer_is_active(timer)) {
-      esp_timer_stop(timer);
+
+      reciving_flag = 0;
+      sending_flag = 1;
+      test_flag = 0;
+      Serial.println("----------END----------");
+
+      // Zatrzymaj timer
+      if (esp_timer_is_active(timer)) {
+        esp_timer_stop(timer);
+      }
     }
   }
   // Obsługa stanu początkowego
