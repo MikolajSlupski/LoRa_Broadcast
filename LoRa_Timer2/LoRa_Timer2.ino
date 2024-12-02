@@ -15,6 +15,9 @@
 #include <LoRa.h>
 
 #define TEST_MESSAGE "Wiadomosc Testowa"
+#define OUTPUT_POWER 2            // od 2 do 20
+#define SIGNAL_BANDWIDTH 7.8      // od 7.8  10.4  15.6  20.8  31.25 41.7  62.5  125  250  500
+#define RECIVER_LNA_GAIN 1        // od 1 do 6    dla 0---AGC enable
 
 const int csPin = 7;          // LoRa radio chip select
 const int resetPin = 6;       // LoRa radio reset
@@ -136,7 +139,11 @@ String onReceive(int packetSize) {
   Serial.print("RSSI: " + String(LoRa.packetRssi()));
   Serial.print("   ");
   Serial.print("Snr: " + String(LoRa.packetSnr()));
+  Serial.print("   ");
+  Serial.print("Error_freq: " + String(LoRa.packetFrequencyError()));  //dodane WSZ
   Serial.println();    
+
+
 
   return incoming;
 }
@@ -162,6 +169,11 @@ void setup() {
   pinMode(A12, INPUT_PULLUP);
   Serial.println("End Setup");
   pinMode(A14, OUTPUT);
+
+  // ustawienie siły sygnału oraz BW oraz LNA_GAIN
+  LoRa.setTxPower(OUTPUT_POWER);
+  LoRa.setSignalBandwidth(SIGNAL_BANDWIDTH * 1000);
+  LoRa.setGain(RECIVER_LNA_GAIN);
 
   // Tworzenie timera
   esp_timer_create(&timer_args, &timer);
