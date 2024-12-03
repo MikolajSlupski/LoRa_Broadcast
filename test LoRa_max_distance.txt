@@ -1,0 +1,151 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4604
+ho 0 tail 12 room 4
+load:0x40078000,len:15488
+load:0x40080400,len:4
+load:0x40080404,len:3180
+entry 0x400805b8
+Serial begin
+LoRa Duplex
+SetPin
+End Setup
+LoRa init succeeded.
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4604
+ho 0 tail 12 room 4
+load:0x40078000,len:15488
+load:0x40080400,len:4
+load:0x40080404,len:3180
+entry 0x400805b8
+Serial begin
+LoRa Duplex
+SetPin
+End Setup
+LoRa init succeeded.
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 11   Message length: 6   Message: Pak-1p   RSSI: -110   Snr: -9.50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 14   Message length: 6   Message: Pakiet   RSSI: -113   Snr: -6.75
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 18   Message length: 6   Message: Pakiet   RSSI: -109   Snr: -3.00
+PASSED
+Message ID: 19   Message length: 6   Message: Pakiet   RSSI: -111   Snr: -2.25
+PASSED
+Message ID: 20   Message length: 6   Message: Pakiet   RSSI: -109   Snr: -4.50
+error: message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 22   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 0.00
+PASSED
+Message ID: 23   Message length: 6   Message: Pakiet   RSSI: -112   Snr: -3.50
+PASSED
+Message ID: 24   Message length: 6   Message: Pakiet   RSSI: -112   Snr: -6.25
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 26   Message length: 6   Message: Pakiet   RSSI: -112   Snr: -4.50
+PASSED
+Message ID: 27   Message length: 6   Message: Pakiet   RSSI: -109   Snr: -6.75
+PASSED
+Message ID: 28   Message length: 6   Message: Pakiet   RSSI: -109   Snr: -3.50
+This message is not for me.
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 33   Message length: 6   Message: Pakiet   RSSI: -109   Snr: -4.50
+PASSED
+Message ID: 34   Message length: 6   Message: Pakiet   RSSI: -113   Snr: -4.25
+error: message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 37   Message length: 6   Message: Pakiet   RSSI: -111   Snr: -8.75
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 40   Message length: 6   Message: Pakiet   RSSI: -113   Snr: -7.75
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 42   Message length: 6   Message: Pakiet   RSSI: -111   Snr: -8.25
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 46   Message length: 6   Message: Pakiet   RSSI: -109   Snr: -9.00
