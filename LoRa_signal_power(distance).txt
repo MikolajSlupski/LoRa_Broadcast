@@ -1,3 +1,8 @@
+-----------------------------------------------------------------
+Pomiar od najdalszego miejsca do najbliższego miejsca dla najmniejszej siły sygnału
+
+-----------------------------------------------------------------
+
 error: message length does not match length
 PASSED
 Message ID: 4   Message length: 6   Message: Pakiet   RSSI: -110   Snr: -7.25

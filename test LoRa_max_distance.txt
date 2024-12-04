@@ -1,3 +1,10 @@
+-------------------------------------------------------------------------
+Próba ustalenia maksymalnej odległości i oszacowanie strat pakietów
+dla najmniejszej siły sygnału
+
+-------------------------------------------------------------------------
+
+
 ets Jul 29 2019 12:21:46
 
 rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
