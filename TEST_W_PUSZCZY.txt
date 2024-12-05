@@ -1,0 +1,803 @@
+---------------------------------------------------------------------------------
+ODEJŚCIE
+---------------------------------------------------------------------------------
+
+Message ID: 0   Message length: 6   Message: Vak▒et   RSSI: -24   Snr: 3.50
+PASSED
+Message ID: 1   Message length: 6   Message: Pakiet   RSSI: -53   Snr: 9.75
+PASSED
+Message ID: 2   Message length: 6   Message: Pakiet   RSSI: -59   Snr: 9.25
+PASSED
+Message ID: 3   Message length: 6   Message: Pakiet   RSSI: -59   Snr: 9.00
+PASSED
+Message ID: 4   Message length: 6   Message: Pak▒et   RSSI: -69   Snr: 4.00
+PASSED
+Message ID: 5   Message length: 6   Message: Pakiet   RSSI: -64   Snr: 9.50
+PASSED
+Message ID: 6   Message length: 6   Message: Pakiet   RSSI: -65   Snr: 9.25
+PASSED
+Message ID: 7   Message length: 6   Message: Pakiet   RSSI: -74   Snr: 8.75
+PASSED
+Message ID: 8   Message length: 6   Message: Pakiet   RSSI: -76   Snr: 9.50
+PASSED
+Message ID: 9   Message length: 6   Message: Pakiet   RSSI: -75   Snr: 9.00
+PASSED
+Message ID: 10   Message length: 6   Message: Pakiet   RSSI: -73   Snr: 9.25
+PASSED
+Message ID: 11   Message length: 6   Message: Pakiet   RSSI: -85   Snr: 9.25
+PASSED
+Message ID: 12   Message length: 6   Message: Pakiet   RSSI: -81   Snr: 9.25
+PASSED
+Message ID: 13   Message length: 6   Message: Pakiet   RSSI: -88   Snr: 9.50
+PASSED
+Message ID: 14   Message length: 6   Message: Pakiet   RSSI: -84   Snr: 9.25
+PASSED
+Message ID: 15   Message length: 6   Message: Pakiet   RSSI: -84   Snr: 9.25
+PASSED
+Message ID: 16   Message length: 6   Message: Pakiet   RSSI: -89   Snr: 9.50
+PASSED
+Message ID: 17   Message length: 6   Message: Pakiet   RSSI: -93   Snr: 9.25
+PASSED
+Message ID: 18   Message length: 6   Message: Pakiet   RSSI: -89   Snr: 9.25
+PASSED
+Message ID: 19   Message length: 6   Message: Pakiet   RSSI: -88   Snr: 9.75
+PASSED
+Message ID: 20   Message length: 6   Message: Pakiet   RSSI: -97   Snr: 9.00
+PASSED
+Message ID: 21   Message length: 6   Message: Pakiet   RSSI: -105   Snr: 8.50
+PASSED
+Message ID: 22   Message length: 6   Message: Pakiet   RSSI: -101   Snr: 9.00
+PASSED
+Message ID: 23   Message length: 6   Message: Pakiet   RSSI: -85   Snr: 9.00
+PASSED
+Message ID: 24   Message length: 6   Message: Pakiet   RSSI: -98   Snr: 9.25
+PASSED
+Message ID: 25   Message length: 6   Message: Pakiet   RSSI: -94   Snr: 9.50
+PASSED
+Message ID: 26   Message length: 6   Message: Pakiet   RSSI: -91   Snr: 9.50
+PASSED
+Message ID: 27   Message length: 6   Message: Pakiet   RSSI: -88   Snr: 10.00
+PASSED
+Message ID: 28   Message length: 6   Message: Pakiet   RSSI: -86   Snr: 9.75
+PASSED
+Message ID: 29   Message length: 6   Message: Pakiet   RSSI: -91   Snr: 9.25
+PASSED
+Message ID: 30   Message length: 6   Message: Pakiet   RSSI: -91   Snr: 9.00
+PASSED
+Message ID: 31   Message length: 6   Message: Pakiet   RSSI: -92   Snr: 9.25
+PASSED
+Message ID: 32   Message length: 6   Message: Pakiet   RSSI: -91   Snr: 9.00
+PASSED
+Message ID: 33   Message length: 6   Message: Pakiet   RSSI: -88   Snr: 9.00
+PASSED
+Message ID: 34   Message length: 6   Message: Pakiet   RSSI: -89   Snr: 9.25
+PASSED
+Message ID: 35   Message length: 6   Message: Pakiet   RSSI: -89   Snr: 9.25
+PASSED
+Message ID: 36   Message length: 6   Message: Pakiet   RSSI: -93   Snr: 9.25
+PASSED
+Message ID: 37   Message length: 6   Message: Pakiet   RSSI: -101   Snr: 9.25
+PASSED
+Message ID: 38   Message length: 6   Message: Pakiet   RSSI: -94   Snr: 9.75
+PASSED
+Message ID: 39   Message length: 6   Message: Pakiet   RSSI: -94   Snr: 9.25
+PASSED
+Message ID: 40   Message length: 6   Message: Pakiet   RSSI: -92   Snr: 9.25
+PASSED
+Message ID: 41   Message length: 6   Message: Pakiet   RSSI: -93   Snr: 9.50
+PASSED
+Message ID: 42   Message length: 6   Message: Pakiet   RSSI: -95   Snr: 9.25
+PASSED
+Message ID: 43   Message length: 6   Message: Pakiet   RSSI: -94   Snr: 9.00
+PASSED
+Message ID: 44   Message length: 6   Message: Pakiet   RSSI: -111   Snr: 6.25
+PASSED
+Message ID: 45   Message length: 6   Message: Pakiet   RSSI: -93   Snr: 9.00
+PASSED
+Message ID: 46   Message length: 6   Message: Pakiet   RSSI: -95   Snr: 9.00
+PASSED
+Message ID: 47   Message length: 6   Message: Pakiet   RSSI: -95   Snr: 9.00
+PASSED
+Message ID: 48   Message length: 6   Message: Pakiet   RSSI: -100   Snr: 9.25
+PASSED
+Message ID: 49   Message length: 6   Message: Pakiet   RSSI: -97   Snr: 9.25
+PASSED
+Message ID: 50   Message length: 6   Message: Pakiet   RSSI: -99   Snr: 9.50
+PASSED
+Message ID: 51   Message length: 6   Message: Pakiet   RSSI: -99   Snr: 9.50
+PASSED
+Message ID: 52   Message length: 6   Message: Pakiet   RSSI: -95   Snr: 9.50
+PASSED
+Message ID: 53   Message length: 6   Message: Pakiet   RSSI: -101   Snr: 9.00
+PASSED
+Message ID: 54   Message length: 6   Message: Pakiet   RSSI: -103   Snr: 9.00
+PASSED
+Message ID: 55   Message length: 6   Message: Pakiet   RSSI: -99   Snr: 9.50
+PASSED
+Message ID: 56   Message length: 6   Message: Pakiet   RSSI: -97   Snr: 9.00
+PASSED
+Message ID: 57   Message length: 6   Message: Pakiet   RSSI: -98   Snr: 9.50
+PASSED
+Message ID: 58   Message length: 6   Message: Pakiet   RSSI: -99   Snr: 9.50
+PASSED
+Message ID: 59   Message length: 6   Message: Pakiet   RSSI: -101   Snr: 9.25
+PASSED
+Message ID: 60   Message length: 6   Message: Pakiet   RSSI: -99   Snr: 8.75
+PASSED
+Message ID: 61   Message length: 6   Message: Pakiet   RSSI: -101   Snr: 9.00
+PASSED
+Message ID: 62   Message length: 6   Message: Pakiet   RSSI: -102   Snr: 9.00
+PASSED
+Message ID: 63   Message length: 6   Message: Pakiet   RSSI: -100   Snr: 9.00
+PASSED
+Message ID: 64   Message length: 6   Message: Pakiet   RSSI: -99   Snr: 9.25
+PASSED
+Message ID: 65   Message length: 6   Message: Pakiet   RSSI: -99   Snr: 9.25
+PASSED
+Message ID: 66   Message length: 6   Message: Pakiet   RSSI: -101   Snr: 9.25
+PASSED
+Message ID: 67   Message length: 6   Message: Pakiet   RSSI: -101   Snr: 9.50
+PASSED
+Message ID: 68   Message length: 6   Message: Pakiet   RSSI: -100   Snr: 9.00
+PASSED
+Message ID: 69   Message length: 6   Message: Pakiet   RSSI: -100   Snr: 8.75
+PASSED
+Message ID: 70   Message length: 6   Message: Pakiet   RSSI: -105   Snr: 8.75
+PASSED
+Message ID: 71   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 4.00
+PASSED
+Message ID: 72   Message length: 6   Message: Pakiet   RSSI: -103   Snr: 9.00
+PASSED
+Message ID: 73   Message length: 6   Message: Pakiet   RSSI: -102   Snr: 9.00
+PASSED
+Message ID: 74   Message length: 6   Message: Pakiet   RSSI: -104   Snr: 8.50
+PASSED
+Message ID: 75   Message length: 6   Message: Pakiet   RSSI: -102   Snr: 8.50
+PASSED
+Message ID: 76   Message length: 6   Message: Pakiet   RSSI: -105   Snr: 8.25
+PASSED
+Message ID: 77   Message length: 6   Message: Pakiet   RSSI: -103   Snr: 8.25
+PASSED
+Message ID: 78   Message length: 6   Message: Pakiet   RSSI: -105   Snr: 8.00
+PASSED
+Message ID: 79   Message length: 6   Message: Pakiet   RSSI: -108   Snr: 8.25
+PASSED
+Message ID: 80   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 8.00
+PASSED
+Message ID: 81   Message length: 6   Message: Pakiet   RSSI: -109   Snr: 7.75
+PASSED
+Message ID: 82   Message length: 6   Message: Pakiet   RSSI: -105   Snr: 7.75
+PASSED
+Message ID: 83   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 8.25
+PASSED
+Message ID: 84   Message length: 6   Message: Pakiet   RSSI: -109   Snr: 7.00
+PASSED
+Message ID: 85   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 6.50
+PASSED
+Message ID: 86   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 7.75
+PASSED
+Message ID: 87   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 8.00
+PASSED
+Message ID: 88   Message length: 6   Message: Pakiet   RSSI: -109   Snr: 7.50
+PASSED
+Message ID: 89   Message length: 6   Message: Pakiet   RSSI: -108   Snr: 8.00
+PASSED
+Message ID: 90   Message length: 6   Message: Pakiet   RSSI: -105   Snr: 8.00
+PASSED
+Message ID: 91   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 8.00
+PASSED
+Message ID: 92   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 8.25
+PASSED
+Message ID: 93   Message length: 6   Message: Pakiet   RSSI: -106   Snr: 8.50
+PASSED
+Message ID: 94   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 8.25
+PASSED
+Message ID: 95   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.25
+PASSED
+Message ID: 96   Message length: 6   Message: Pakiet   RSSI: -112   Snr: 5.50
+PASSED
+Message ID: 97   Message length: 6   Message: Pakiet   RSSI: -111   Snr: 6.00
+PASSED
+Message ID: 98   Message length: 6   Message: Pakiet   RSSI: -112   Snr: 5.25
+PASSED
+Message ID: 99   Message length: 6   Message: Pakiet   RSSI: -113   Snr: 5.50
+PASSED
+Message ID: 100   Message length: 6   Message: Pakiet   RSSI: -108   Snr: 8.00
+PASSED
+Message ID: 101   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 0.50
+PASSED
+Message ID: 102   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 6.50
+PASSED
+Message ID: 103   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 4.50
+PASSED
+Message ID: 104   Message length: 6   Message: Pakiet   RSSI: -111   Snr: 6.75
+PASSED
+Message ID: 105   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 7.00
+PASSED
+Message ID: 106   Message length: 6   Message: Pakiet   RSSI: -112   Snr: 5.75
+PASSED
+Message ID: 107   Message length: 6   Message: Pakiet   RSSI: -113   Snr: 4.25
+PASSED
+Message ID: 108   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 0.75
+PASSED
+Message ID: 109   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 2.50
+PASSED
+Message ID: 110   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 3.25
+PASSED
+Message ID: 111   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.00
+PASSED
+Message ID: 112   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -1.50
+PASSED
+Message ID: 113   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 1.75
+PASSED
+Message ID: 114   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 0.00
+PASSED
+Message ID: 115   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 0.25
+PASSED
+Message ID: 116   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 1.50
+PASSED
+Message ID: 117   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 3.25
+PASSED
+Message ID: 118   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.75
+PASSED
+Message ID: 119   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 1.00
+PASSED
+Message ID: 120   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.75
+PASSED
+Message ID: 121   Message length: 6   Message: Pakiet   RSSI: -116   Snr: -1.50
+PASSED
+Message ID: 122   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 3.50
+PASSED
+Message ID: 123   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 125   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 2.00
+PASSED
+Message ID: 126   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 3.75
+PASSED
+Message ID: 127   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 3.50
+PASSED
+Message ID: 128   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 0.75
+PASSED
+Message ID: 129   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 0.00
+PASSED
+Message ID: 130   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -4.75
+PASSED
+Message ID: 131   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.25
+PASSED
+Message ID: 132   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -2.25
+PASSED
+Message ID: 133   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -8.00
+PASSED
+Message ID: 134   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -2.75
+PASSED
+Message ID: 135   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -4.00
+PASSED
+Message ID: 136   Message length: 6   Message: P`kiet   RSSI: -120   Snr: -9.25
+PASSED
+Message ID: 137   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -6.50
+error: message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 140   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -3.00
+PASSED
+Message ID: 141   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -6.75
+PASSED
+Message ID: 142   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -5.00
+PASSED
+Message ID: 143   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -5.50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 145   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -7.50
+PASSED
+Message ID: 146   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -2.75
+PASSED
+Message ID: 147   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -8.00
+PASSED
+Message ID: 148   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -7.00
+PASSED
+Message ID: 149   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.50
+PASSED
+Message ID: 150   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.75
+PASSED
+Message ID: 151   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 1.50
+PASSED
+Message ID: 152   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.75
+PASSED
+Message ID: 153   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -6.50
+PASSED
+Message ID: 154   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -6.50
+PASSED
+Message ID: 155   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.25
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 157   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -7.25
+PASSED
+Message ID: 158   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.50
+PASSED
+Message ID: 159   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -2.00
+PASSED
+Message ID: 160   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -5.50
+PASSED
+Message ID: 161   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -5.50
+PASSED
+Message ID: 162   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 2.00
+PASSED
+Message ID: 163   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -0.75
+PASSED
+Message ID: 164   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.50
+PASSED
+Message ID: 165   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -0.50
+PASSED
+Message ID: 166   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 0.50
+PASSED
+Message ID: 167   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.00
+PASSED
+Message ID: 168   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -0.25
+PASSED
+Message ID: 169   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 1.00
+PASSED
+Message ID: 170   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.50
+This message is not for me.
+---------------------------------------------------------------------------------
+POWRÓT
+---------------------------------------------------------------------------------
+Message ID: 0   Message length: 6   Message: Sakl▒t   RSSI: -118   Snr: -9.25
+PASSED
+Message ID: 1   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.75
+PASSED
+Message ID: 2   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -5.75
+PASSED
+Message ID: 3   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.50
+PASSED
+Message ID: 4   Message length: 6   Message: Pakiet   RSSI: -116   Snr: -1.25
+PASSED
+Message ID: 5   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.75
+error: message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 7   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.50
+PASSED
+Message ID: 8   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.50
+PASSED
+Message ID: 9   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -2.50
+PASSED
+Message ID: 10   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -7.50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 12   Message length: 6   Message: Pakiet   RSSI: -116   Snr: -0.25
+PASSED
+Message ID: 13   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.25
+PASSED
+Message ID: 14   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -2.50
+PASSED
+Message ID: 15   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.50
+PASSED
+Message ID: 16   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.25
+PASSED
+Message ID: 17   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -5.75
+PASSED
+Message ID: 18   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.75
+PASSED
+Message ID: 19   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -7.75
+PASSED
+Message ID: 20   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -7.00
+PASSED
+Message ID: 21   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 1.25
+PASSED
+Message ID: 22   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -3.75
+PASSED
+Message ID: 23   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -7.00
+PASSED
+Message ID: 24   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 2.50
+PASSED
+Message ID: 25   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.50
+PASSED
+Message ID: 26   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -7.50
+PASSED
+Message ID: 27   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -2.50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 29   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.75
+PASSED
+Message ID: 28   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -7.25
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 35   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -8.75
+PASSED
+Message ID: 36   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.00
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 38   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.50
+PASSED
+Message ID: 39   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.75
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 42   Message length: 6   Message: ▒▒
+                                                i`u   RSSI: -119   Snr: -10.00
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 44   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -9.75
+PASSED
+Message ID: 45   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -5.00
+PASSED
+Message ID: 46   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -0.25
+PASSED
+Message ID: 47   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -4.00
+PASSED
+Message ID: 48   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -7.25
+PASSED
+Message ID: 49   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.00
+error: message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 51   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.75
+PASSED
+Message ID: 52   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -6.75
+PASSED
+Message ID: 53   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -2.25
+PASSED
+Message ID: 54   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 0.75
+PASSED
+Message ID: 55   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -5.50
+PASSED
+Message ID: 56   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.75
+error: message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 58   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -7.00
+PASSED
+Message ID: 59   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 1.75
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 61   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -1.50
+PASSED
+Message ID: 62   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -1.00
+PASSED
+Message ID: 63   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 0.25
+PASSED
+Message ID: 64   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -2.25
+error: message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 66   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 2.25
+PASSED
+Message ID: 67   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 3.50
+PASSED
+Message ID: 68   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 0.00
+PASSED
+Message ID: 69   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -5.75
+PASSED
+Message ID: 70   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -5.75
+PASSED
+Message ID: 71   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -0.75
+PASSED
+Message ID: 72   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -2.25
+PASSED
+Message ID: 73   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.50
+PASSED
+Message ID: 74   Message length: 6   Message: Pakiet   RSSI: -111   Snr: 6.75
+PASSED
+Message ID: 75   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 3.50
+PASSED
+Message ID: 76   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.50
+PASSED
+Message ID: 77   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 6.25
+PASSED
+Message ID: 78   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.00
+PASSED
+Message ID: 79   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 6.50
+PASSED
+Message ID: 80   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -3.00
+PASSED
+Message ID: 81   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 4.50
+PASSED
+Message ID: 82   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -2.00
+PASSED
+Message ID: 83   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -0.75
+PASSED
+Message ID: 84   Message length: 6   Message: Pakiet   RSSI: -112   Snr: 6.25
+PASSED
+Message ID: 85   Message length: 6   Message: Pakiet   RSSI: -113   Snr: 5.50
+PASSED
+Message ID: 86   Message length: 6   Message: Pakiet   RSSI: -118   Snr: 0.25
+PASSED
+Message ID: 87   Message length: 6   Message: Pakiet   RSSI: -113   Snr: 3.75
+PASSED
+Message ID: 88   Message length: 6   Message: Pakiet   RSSI: -111   Snr: 5.50
+PASSED
+Message ID: 89   Message length: 6   Message: Pakiet   RSSI: -112   Snr: 5.75
+PASSED
+Message ID: 90   Message length: 6   Message: Pakiet   RSSI: -108   Snr: 8.25
+PASSED
+Message ID: 91   Message length: 6   Message: Pakiet   RSSI: -106   Snr: 8.50
+PASSED
+Message ID: 92   Message length: 6   Message: Pakiet   RSSI: -112   Snr: 5.75
+PASSED
+Message ID: 93   Message length: 6   Message: Pakiet   RSSI: -113   Snr: 6.00
+PASSED
+Message ID: 94   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 6.25
+PASSED
+Message ID: 95   Message length: 6   Message: Pak!▒<   RSSI: -119   Snr: -7.00
+PASSED
+Message ID: 96   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 2.50
+PASSED
+Message ID: 97   Message length: 6   Message: Pakiet   RSSI: -112   Snr: 6.00
+PASSED
+Message ID: 98   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 3.50
+PASSED
+Message ID: 99   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 2.50
+PASSED
+Message ID: 100   Message length: 6   Message: Pakiet   RSSI: -120   Snr: -6.75
+PASSED
+Message ID: 101   Message length: 6   Message: Pakiet   RSSI: -113   Snr: 4.50
+PASSED
+Message ID: 102   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -0.75
+PASSED
+Message ID: 103   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 1.00
+
+
+
+
+----------ERROR-----------
+
+
+
+
+Message ID: 105   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -6.25
+PASSED
+Message ID: 106   Message length: 6   Message: Pakiet   RSSI: -113   Snr: 5.50
+PASSED
+Message ID: 107   Message length: 6   Message: Pakiet   RSSI: -117   Snr: -2.75
+PASSED
+Message ID: 108   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -0.75
+PASSED
+Message ID: 109   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -4.00
+PASSED
+Message ID: 110   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 6.50
+PASSED
+Message ID: 111   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 3.25
+PASSED
+Message ID: 112   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 2.00
+PASSED
+Message ID: 113   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 3.50
+PASSED
+Message ID: 114   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 4.75
+PASSED
+Message ID: 115   Message length: 6   Message: Pakiet   RSSI: -118   Snr: -3.75
+PASSED
+Message ID: 116   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -1.25
+PASSED
+Message ID: 117   Message length: 6   Message: Pakiet   RSSI: -117   Snr: 1.00
+PASSED
+Message ID: 118   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 3.25
+PASSED
+Message ID: 119   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 6.50
+PASSED
+Message ID: 120   Message length: 6   Message: Pakiet   RSSI: -112   Snr: 6.00
+PASSED
+Message ID: 121   Message length: 6   Message: Pakiet   RSSI: -119   Snr: -3.50
+PASSED
+Message ID: 122   Message length: 6   Message: Pakiet   RSSI: -115   Snr: 3.25
+PASSED
+Message ID: 123   Message length: 6   Message: Pakiet   RSSI: -114   Snr: 3.75
+PASSED
+Message ID: 124   Message length: 6   Message: Pakiet   RSSI: -109   Snr: 6.50
+PASSED
+Message ID: 125   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 7.25
+PASSED
+Message ID: 126   Message length: 6   Message: Pakiet   RSSI: -111   Snr: 6.25
+PASSED
+Message ID: 127   Message length: 6   Message: Pakiet   RSSI: -105   Snr: 8.75
+PASSED
+Message ID: 128   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 8.25
+PASSED
+Message ID: 129   Message length: 6   Message: Pakiet   RSSI: -105   Snr: 8.50
+PASSED
+Message ID: 130   Message length: 6   Message: Pakiet   RSSI: -111   Snr: 6.00
+PASSED
+Message ID: 131   Message length: 6   Message: Pakiet   RSSI: -99   Snr: 9.50
+PASSED
+Message ID: 132   Message length: 6   Message: Pakiet   RSSI: -116   Snr: 1.75
+PASSED
+Message ID: 133   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 7.25
+PASSED
+Message ID: 134   Message length: 6   Message: Pakiet   RSSI: -101   Snr: 9.00
+PASSED
+Message ID: 135   Message length: 6   Message: Pakiet   RSSI: -106   Snr: 8.50
+PASSED
+Message ID: 136   Message length: 6   Message: Pakiet   RSSI: -110   Snr: 7.25
+PASSED
+Message ID: 137   Message length: 6   Message: Pakiet   RSSI: -100   Snr: 9.00
+PASSED
+Message ID: 138   Message length: 6   Message: Pakiet   RSSI: -95   Snr: 9.75
+PASSED
+Message ID: 139   Message length: 6   Message: Pakiet   RSSI: -102   Snr: 9.25
+PASSED
+Message ID: 140   Message length: 6   Message: Pakiet   RSSI: -107   Snr: 7.75
+error: message length does not match length
+PASSED
+Message ID: 141   Message length: 6   Message: Pakiet   RSSI: -94   Snr: 8.75
+PASSED
+Message ID: 142   Message length: 6   Message: Pakiet   RSSI: -91   Snr: 9.00
+PASSED
+Message ID: 143   Message length: 6   Message: Pakiet   RSSI: -95   Snr: 9.25
+PASSED
+Message ID: 144   Message length: 6   Message: Pakiet   RSSI: -94   Snr: 9.50
+PASSED
+Message ID: 145   Message length: 6   Message: Pakiet   RSSI: -91   Snr: 9.75
+PASSED
+Message ID: 146   Message length: 6   Message: Pakiet   RSSI: -103   Snr: 8.00
+PASSED
+Message ID: 147   Message length: 6   Message: Pakiet   RSSI: -102   Snr: 9.25
+PASSED
+Message ID: 148   Message length: 6   Message: Pakiet   RSSI: -89   Snr: 9.25
+PASSED
+Message ID: 149   Message length: 6   Message: Pakiet   RSSI: -94   Snr: 9.75
+PASSED
+Message ID: 150   Message length: 6   Message: Pakiet   RSSI: -90   Snr: 9.25
+PASSED
+Message ID: 151   Message length: 6   Message: Pakiet   RSSI: -102   Snr: 9.00
+PASSED
+Message ID: 152   Message length: 6   Message: Pakiet   RSSI: -95   Snr: 9.25
+PASSED
+Message ID: 153   Message length: 6   Message: Pakiet   RSSI: -97   Snr: 9.25
+PASSED
+Message ID: 154   Message length: 6   Message: Pakiet   RSSI: -91   Snr: 9.25
+PASSED
+Message ID: 155   Message length: 6   Message: Pakiet   RSSI: -100   Snr: 9.50
+PASSED
+Message ID: 156   Message length: 6   Message: Pakiet   RSSI: -96   Snr: 9.00
+PASSED
+Message ID: 157   Message length: 6   Message: Pakiet   RSSI: -91   Snr: 9.75
+PASSED
+Message ID: 158   Message length: 6   Message: Pakiet   RSSI: -86   Snr: 9.25
+PASSED
+Message ID: 159   Message length: 6   Message: Pakiet   RSSI: -79   Snr: 9.25
+PASSED
+Message ID: 160   Message length: 6   Message: Pakiet   RSSI: -79   Snr: 9.25
+PASSED
+Message ID: 161   Message length: 6   Message: Pakiet   RSSI: -79   Snr: 9.25
+PASSED
+Message ID: 162   Message length: 6   Message: Pakiet   RSSI: -76   Snr: 9.75
+PASSED
+Message ID: 163   Message length: 6   Message: Pakiet   RSSI: -81   Snr: 9.25
+PASSED
+Message ID: 164   Message length: 6   Message: Pakiet   RSSI: -74   Snr: 9.50
+PASSED
+Message ID: 165   Message length: 6   Message: Pakiet   RSSI: -89   Snr: 9.50
+PASSED
+Message ID: 166   Message length: 6   Message: Pakiet   RSSI: -76   Snr: 9.25
+PASSED
+Message ID: 167   Message length: 6   Message: Pakiet   RSSI: -74   Snr: 9.50
+PASSED
+Message ID: 168   Message length: 6   Message: Pakiet   RSSI: -75   Snr: 9.00
+PASSED
+Message ID: 169   Message length: 6   Message: Pakiet   RSSI: -74   Snr: 9.00
+PASSED
+Message ID: 170   Message length: 6   Message: Pakiet   RSSI: -69   Snr: 9.25
+PASSED
+Message ID: 171   Message length: 6   Message: Pakiet   RSSI: -72   Snr: 9.25
+PASSED
+Message ID: 172   Message length: 6   Message: Pakiet   RSSI: -64   Snr: 8.75
+PASSED
+Message ID: 173   Message length: 6   Message: Pakiet   RSSI: -64   Snr: 9.50
+PASSED
+Message ID: 174   Message length: 6   Message: Pakiet   RSSI: -62   Snr: 9.50
+PASSED
+Message ID: 175   Message length: 6   Message: Pakiet   RSSI: -65   Snr: 9.25
+PASSED
+Message ID: 176   Message length: 6   Message: Pakiet   RSSI: -59   Snr: 9.25
+PASSED
+Message ID: 177   Message length: 6   Message: Pakiet   RSSI: -59   Snr: 9.25
+PASSED
+Message ID: 178   Message length: 6   Message: Pakiet   RSSI: -46   Snr: 9.50
+PASSED
+Message ID: 179   Message length: 6   Message: Pakiet   RSSI: -27   Snr: 9.75
+PASSED
+Message ID: 180   Message length: 6   Message: Pakiet   RSSI: -54   Snr: 9.00

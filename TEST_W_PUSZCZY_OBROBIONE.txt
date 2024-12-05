@@ -1,0 +1,490 @@
+---------------------------------------------------------------------------------
+ODEJŚCIE
+---------------------------------------------------------------------------------
+
+	 0   	 6   	 Vak▒et   	 -24   		 3,50
+	 1   	 6   	 Pakiet   	 -53   		 9,75
+	 2   	 6   	 Pakiet   	 -59   		 9,25
+	 3   	 6   	 Pakiet   	 -59   		 9,00
+	 4   	 6   	 Pak▒et   	 -69   		 4,00
+	 5   	 6   	 Pakiet   	 -64   		 9,50
+	 6   	 6   	 Pakiet   	 -65   		 9,25
+	 7   	 6   	 Pakiet   	 -74   		 8,75
+	 8   	 6   	 Pakiet   	 -76   		 9,50
+	 9   	 6   	 Pakiet   	 -75   		 9,00
+	 10   	 6   	 Pakiet   	 -73   		 9,25
+	 11   	 6   	 Pakiet   	 -85   		 9,25
+	 12   	 6   	 Pakiet   	 -81   		 9,25
+	 13   	 6   	 Pakiet   	 -88   		 9,50
+	 14   	 6   	 Pakiet   	 -84   		 9,25
+	 15   	 6   	 Pakiet   	 -84   		 9,25
+	 16   	 6   	 Pakiet   	 -89   		 9,50
+	 17   	 6   	 Pakiet   	 -93   		 9,25
+	 18   	 6   	 Pakiet   	 -89   		 9,25
+	 19   	 6   	 Pakiet   	 -88   		 9,75
+	 20   	 6   	 Pakiet   	 -97   		 9,00
+	 21   	 6   	 Pakiet   	 -105   		 8,50
+	 22   	 6   	 Pakiet   	 -101   		 9,00
+	 23   	 6   	 Pakiet   	 -85   		 9,00
+	 24   	 6   	 Pakiet   	 -98   		 9,25
+	 25   	 6   	 Pakiet   	 -94   		 9,50
+	 26   	 6   	 Pakiet   	 -91   		 9,50
+	 27   	 6   	 Pakiet   	 -88   		 10,00
+	 28   	 6   	 Pakiet   	 -86   		 9,75
+	 29   	 6   	 Pakiet   	 -91   		 9,25
+	 30   	 6   	 Pakiet   	 -91   		 9,00
+	 31   	 6   	 Pakiet   	 -92   		 9,25
+	 32   	 6   	 Pakiet   	 -91   		 9,00
+	 33   	 6   	 Pakiet   	 -88   		 9,00
+	 34   	 6   	 Pakiet   	 -89   		 9,25
+	 35   	 6   	 Pakiet   	 -89   		 9,25
+	 36   	 6   	 Pakiet   	 -93   		 9,25
+	 37   	 6   	 Pakiet   	 -101   		 9,25
+	 38   	 6   	 Pakiet   	 -94   		 9,75
+	 39   	 6   	 Pakiet   	 -94   		 9,25
+	 40   	 6   	 Pakiet   	 -92   		 9,25
+	 41   	 6   	 Pakiet   	 -93   		 9,50
+	 42   	 6   	 Pakiet   	 -95   		 9,25
+	 43   	 6   	 Pakiet   	 -94   		 9,00
+	 44   	 6   	 Pakiet   	 -111   		 6,25
+	 45   	 6   	 Pakiet   	 -93   		 9,00
+	 46   	 6   	 Pakiet   	 -95   		 9,00
+	 47   	 6   	 Pakiet   	 -95   		 9,00
+	 48   	 6   	 Pakiet   	 -100   		 9,25
+	 49   	 6   	 Pakiet   	 -97   		 9,25
+	 50   	 6   	 Pakiet   	 -99   		 9,50
+	 51   	 6   	 Pakiet   	 -99   		 9,50
+	 52   	 6   	 Pakiet   	 -95   		 9,50
+	 53   	 6   	 Pakiet   	 -101   		 9,00
+	 54   	 6   	 Pakiet   	 -103   		 9,00
+	 55   	 6   	 Pakiet   	 -99   		 9,50
+	 56   	 6   	 Pakiet   	 -97   		 9,00
+	 57   	 6   	 Pakiet   	 -98   		 9,50
+	 58   	 6   	 Pakiet   	 -99   		 9,50
+	 59   	 6   	 Pakiet   	 -101   		 9,25
+	 60   	 6   	 Pakiet   	 -99   		 8,75
+	 61   	 6   	 Pakiet   	 -101   		 9,00
+	 62   	 6   	 Pakiet   	 -102   		 9,00
+	 63   	 6   	 Pakiet   	 -100   		 9,00
+	 64   	 6   	 Pakiet   	 -99   		 9,25
+	 65   	 6   	 Pakiet   	 -99   		 9,25
+	 66   	 6   	 Pakiet   	 -101   		 9,25
+	 67   	 6   	 Pakiet   	 -101   		 9,50
+	 68   	 6   	 Pakiet   	 -100   		 9,00
+	 69   	 6   	 Pakiet   	 -100   		 8,75
+	 70   	 6   	 Pakiet   	 -105   		 8,75
+	 71   	 6   	 Pakiet   	 -114   		 4,00
+	 72   	 6   	 Pakiet   	 -103   		 9,00
+	 73   	 6   	 Pakiet   	 -102   		 9,00
+	 74   	 6   	 Pakiet   	 -104   		 8,50
+	 75   	 6   	 Pakiet   	 -102   		 8,50
+	 76   	 6   	 Pakiet   	 -105   		 8,25
+	 77   	 6   	 Pakiet   	 -103   		 8,25
+	 78   	 6   	 Pakiet   	 -105   		 8,00
+	 79   	 6   	 Pakiet   	 -108   		 8,25
+	 80   	 6   	 Pakiet   	 -107   		 8,00
+	 81   	 6   	 Pakiet   	 -109   		 7,75
+	 82   	 6   	 Pakiet   	 -105   		 7,75
+	 83   	 6   	 Pakiet   	 -107   		 8,25
+	 84   	 6   	 Pakiet   	 -109   		 7,00
+	 85   	 6   	 Pakiet   	 -110   		 6,50
+	 86   	 6   	 Pakiet   	 -107   		 7,75
+	 87   	 6   	 Pakiet   	 -107   		 8,00
+	 88   	 6   	 Pakiet   	 -109   		 7,50
+	 89   	 6   	 Pakiet   	 -108   		 8,00
+	 90   	 6   	 Pakiet   	 -105   		 8,00
+	 91   	 6   	 Pakiet   	 -107   		 8,00
+	 92   	 6   	 Pakiet   	 -107   		 8,25
+	 93   	 6   	 Pakiet   	 -106   		 8,50
+	 94   	 6   	 Pakiet   	 -107   		 8,25
+	 95   	 6   	 Pakiet   	 -119   		 -4,25
+	 96   	 6   	 Pakiet   	 -112   		 5,50
+	 97   	 6   	 Pakiet   	 -111   		 6,00
+	 98   	 6   	 Pakiet   	 -112   		 5,25
+	 99   	 6   	 Pakiet   	 -113   		 5,50
+	 100   	 6   	 Pakiet   	 -108   		 8,00
+	 101   	 6   	 Pakiet   	 -117   		 0,50
+	 102   	 6   	 Pakiet   	 -110   		 6,50
+	 103   	 6   	 Pakiet   	 -114   		 4,50
+	 104   	 6   	 Pakiet   	 -111   		 6,75
+	 105   	 6   	 Pakiet   	 -110   		 7,00
+	 106   	 6   	 Pakiet   	 -112   		 5,75
+	 107   	 6   	 Pakiet   	 -113   		 4,25
+	 108   	 6   	 Pakiet   	 -116   		 0,75
+	 109   	 6   	 Pakiet   	 -116   		 2,50
+	 110   	 6   	 Pakiet   	 -115   		 3,25
+	 111   	 6   	 Pakiet   	 -118   		 -1,00
+	 112   	 6   	 Pakiet   	 -117   		 -1,50
+	 113   	 6   	 Pakiet   	 -117   		 1,75
+	 114   	 6   	 Pakiet   	 -117   		 0,00
+	 115   	 6   	 Pakiet   	 -117   		 0,25
+	 116   	 6   	 Pakiet   	 -116   		 1,50
+	 117   	 6   	 Pakiet   	 -115   		 3,25
+	 118   	 6   	 Pakiet   	 -119   		 -4,75
+	 119   	 6   	 Pakiet   	 -117   		 1,00
+	 120   	 6   	 Pakiet   	 -119   		 -4,75
+	 121   	 6   	 Pakiet   	 -116   		 -1,50
+	 122   	 6   	 Pakiet   	 -115   		 3,50
+	 123   	 6   	 Pakiet   	 -118   		 -1,50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 125   	 6   	 Pakiet   	 -115   		 2,00
+	 126   	 6   	 Pakiet   	 -114   		 3,75
+	 127   	 6   	 Pakiet   	 -115   		 3,50
+	 128   	 6   	 Pakiet   	 -117   		 0,75
+	 129   	 6   	 Pakiet   	 -116   		 0,00
+	 130   	 6   	 Pakiet   	 -118   		 -4,75
+	 131   	 6   	 Pakiet   	 -118   		 -1,25
+	 132   	 6   	 Pakiet   	 -118   		 -2,25
+	 133   	 6   	 Pakiet   	 -118   		 -8,00
+	 134   	 6   	 Pakiet   	 -119   		 -2,75
+	 135   	 6   	 Pakiet   	 -118   		 -4,00
+	 136   	 6   	 P`kiet   	 -120   		 -9,25
+	 137   	 6   	 Pakiet   	 -118   		 -6,50
+error: 	Message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 140   	 6   	 Pakiet   	 -118   		 -3,00
+	 141   	 6   	 Pakiet   	 -119   		 -6,75
+	 142   	 6   	 Pakiet   	 -120   		 -5,00
+	 143   	 6   	 Pakiet   	 -120   		 -5,50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 145   	 6   	 Pakiet   	 -118   		 -7,50
+	 146   	 6   	 Pakiet   	 -119   		 -2,75
+	 147   	 6   	 Pakiet   	 -120   		 -8,00
+	 148   	 6   	 Pakiet   	 -118   		 -7,00
+	 149   	 6   	 Pakiet   	 -119   		 -3,50
+	 150   	 6   	 Pakiet   	 -119   		 -3,75
+	 151   	 6   	 Pakiet   	 -116   		 1,50
+	 152   	 6   	 Pakiet   	 -119   		 -4,75
+	 153   	 6   	 Pakiet   	 -119   		 -6,50
+	 154   	 6   	 Pakiet   	 -120   		 -6,50
+	 155   	 6   	 Pakiet   	 -119   		 -4,25
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 157   	 6   	 Pakiet   	 -118   		 -7,25
+	 158   	 6   	 Pakiet   	 -118   		 -1,50
+	 159   	 6   	 Pakiet   	 -117   		 -2,00
+	 160   	 6   	 Pakiet   	 -119   		 -5,50
+	 161   	 6   	 Pakiet   	 -118   		 -5,50
+	 162   	 6   	 Pakiet   	 -116   		 2,00
+	 163   	 6   	 Pakiet   	 -118   		 -0,75
+	 164   	 6   	 Pakiet   	 -118   		 -1,50
+	 165   	 6   	 Pakiet   	 -118   		 -0,50
+	 166   	 6   	 Pakiet   	 -117   		 0,50
+	 167   	 6   	 Pakiet   	 -119   		 -4,00
+	 168   	 6   	 Pakiet   	 -117   		 -0,25
+	 169   	 6   	 Pakiet   	 -117   		 1,00
+	 170   	 6   	 Pakiet   	 -119   		 -3,50
+This 	Message is not for me,
+---------------------------------------------------------------------------------
+POWRÓT
+---------------------------------------------------------------------------------
+	 0   	 6   	 Sakl▒t   	 -118   		 -9,25
+	 1   	 6   	 Pakiet   	 -119   		 -3,75
+	 2   	 6   	 Pakiet   	 -120   		 -5,75
+	 3   	 6   	 Pakiet   	 -119   		 -3,50
+	 4   	 6   	 Pakiet   	 -116   		 -1,25
+	 5   	 6   	 Pakiet   	 -118   		 -1,75
+error: 	Message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 7   	 6   	 Pakiet   	 -119   		 -3,50
+	 8   	 6   	 Pakiet   	 -119   		 -3,50
+	 9   	 6   	 Pakiet   	 -118   		 -2,50
+	 10   	 6   	 Pakiet   	 -120   		 -7,50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 12   	 6   	 Pakiet   	 -116   		 -0,25
+	 13   	 6   	 Pakiet   	 -119   		 -4,25
+	 14   	 6   	 Pakiet   	 -118   		 -2,50
+	 15   	 6   	 Pakiet   	 -118   		 -1,50
+	 16   	 6   	 Pakiet   	 -119   		 -4,25
+	 17   	 6   	 Pakiet   	 -120   		 -5,75
+	 18   	 6   	 Pakiet   	 -119   		 -4,75
+	 19   	 6   	 Pakiet   	 -120   		 -7,75
+	 20   	 6   	 Pakiet   	 -118   		 -7,00
+	 21   	 6   	 Pakiet   	 -116   		 1,25
+	 22   	 6   	 Pakiet   	 -118   		 -3,75
+	 23   	 6   	 Pakiet   	 -119   		 -7,00
+	 24   	 6   	 Pakiet   	 -116   		 2,50
+	 25   	 6   	 Pakiet   	 -119   		 -4,50
+	 26   	 6   	 Pakiet   	 -119   		 -7,50
+	 27   	 6   	 Pakiet   	 -117   		 -2,50
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 29   	 6   	 Pakiet   	 -119   		 -4,75
+	 28   	 6   	 Pakiet   	 -120   		 -7,25
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 35   	 6   	 Pakiet   	 -118   		 -8,75
+	 36   	 6   	 Pakiet   	 -119   		 -3,00
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 38   	 6   	 Pakiet   	 -119   		 -4,50
+	 39   	 6   	 Pakiet   	 -118   		 -1,75
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 42   	 6   	 ▒▒
+                                                i`u   	 -119   		 -10,00
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 44   	 6   	 Pakiet   	 -119   		 -9,75
+	 45   	 6   	 Pakiet   	 -119   		 -5,00
+	 46   	 6   	 Pakiet   	 -117   		 -0,25
+	 47   	 6   	 Pakiet   	 -118   		 -4,00
+	 48   	 6   	 Pakiet   	 -120   		 -7,25
+	 49   	 6   	 Pakiet   	 -118   		 -1,00
+error: 	Message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 51   	 6   	 Pakiet   	 -118   		 -1,75
+	 52   	 6   	 Pakiet   	 -120   		 -6,75
+	 53   	 6   	 Pakiet   	 -119   		 -2,25
+	 54   	 6   	 Pakiet   	 -117   		 0,75
+	 55   	 6   	 Pakiet   	 -120   		 -5,50
+	 56   	 6   	 Pakiet   	 -118   		 -1,75
+error: 	Message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 58   	 6   	 Pakiet   	 -119   		 -7,00
+	 59   	 6   	 Pakiet   	 -116   		 1,75
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 61   	 6   	 Pakiet   	 -117   		 -1,50
+	 62   	 6   	 Pakiet   	 -118   		 -1,00
+	 63   	 6   	 Pakiet   	 -116   		 0,25
+	 64   	 6   	 Pakiet   	 -118   		 -2,25
+error: 	Message length does not match length
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 66   	 6   	 Pakiet   	 -116   		 2,25
+	 67   	 6   	 Pakiet   	 -114   		 3,50
+	 68   	 6   	 Pakiet   	 -117   		 0,00
+	 69   	 6   	 Pakiet   	 -119   		 -5,75
+	 70   	 6   	 Pakiet   	 -119   		 -5,75
+	 71   	 6   	 Pakiet   	 -117   		 -0,75
+	 72   	 6   	 Pakiet   	 -118   		 -2,25
+	 73   	 6   	 Pakiet   	 -119   		 -4,50
+	 74   	 6   	 Pakiet   	 -111   		 6,75
+	 75   	 6   	 Pakiet   	 -114   		 3,50
+	 76   	 6   	 Pakiet   	 -119   		 -3,50
+	 77   	 6   	 Pakiet   	 -110   		 6,25
+	 78   	 6   	 Pakiet   	 -119   		 -4,00
+	 79   	 6   	 Pakiet   	 -110   		 6,50
+	 80   	 6   	 Pakiet   	 -117   		 -3,00
+	 81   	 6   	 Pakiet   	 -114   		 4,50
+	 82   	 6   	 Pakiet   	 -118   		 -2,00
+	 83   	 6   	 Pakiet   	 -118   		 -0,75
+	 84   	 6   	 Pakiet   	 -112   		 6,25
+	 85   	 6   	 Pakiet   	 -113   		 5,50
+	 86   	 6   	 Pakiet   	 -118   		 0,25
+	 87   	 6   	 Pakiet   	 -113   		 3,75
+	 88   	 6   	 Pakiet   	 -111   		 5,50
+	 89   	 6   	 Pakiet   	 -112   		 5,75
+	 90   	 6   	 Pakiet   	 -108   		 8,25
+	 91   	 6   	 Pakiet   	 -106   		 8,50
+	 92   	 6   	 Pakiet   	 -112   		 5,75
+	 93   	 6   	 Pakiet   	 -113   		 6,00
+	 94   	 6   	 Pakiet   	 -110   		 6,25
+	 95   	 6   	 Pak!▒<   	 -119   		 -7,00
+	 96   	 6   	 Pakiet   	 -114   		 2,50
+	 97   	 6   	 Pakiet   	 -112   		 6,00
+	 98   	 6   	 Pakiet   	 -115   		 3,50
+	 99   	 6   	 Pakiet   	 -116   		 2,50
+	 100   	 6   	 Pakiet   	 -120   		 -6,75
+	 101   	 6   	 Pakiet   	 -113   		 4,50
+	 102   	 6   	 Pakiet   	 -118   		 -0,75
+	 103   	 6   	 Pakiet   	 -116   		 1,00
+
+
+
+
+----------ERROR-----------
+
+
+
+
+	 105   	 6   	 Pakiet   	 -118   		 -6,25
+	 106   	 6   	 Pakiet   	 -113   		 5,50
+	 107   	 6   	 Pakiet   	 -117   		 -2,75
+	 108   	 6   	 Pakiet   	 -118   		 -0,75
+	 109   	 6   	 Pakiet   	 -119   		 -4,00
+	 110   	 6   	 Pakiet   	 -110   		 6,50
+	 111   	 6   	 Pakiet   	 -114   		 3,25
+	 112   	 6   	 Pakiet   	 -115   		 2,00
+	 113   	 6   	 Pakiet   	 -115   		 3,50
+	 114   	 6   	 Pakiet   	 -114   		 4,75
+	 115   	 6   	 Pakiet   	 -118   		 -3,75
+	 116   	 6   	 Pakiet   	 -119   		 -1,25
+	 117   	 6   	 Pakiet   	 -117   		 1,00
+	 118   	 6   	 Pakiet   	 -115   		 3,25
+	 119   	 6   	 Pakiet   	 -110   		 6,50
+	 120   	 6   	 Pakiet   	 -112   		 6,00
+	 121   	 6   	 Pakiet   	 -119   		 -3,50
+	 122   	 6   	 Pakiet   	 -115   		 3,25
+	 123   	 6   	 Pakiet   	 -114   		 3,75
+	 124   	 6   	 Pakiet   	 -109   		 6,50
+	 125   	 6   	 Pakiet   	 -110   		 7,25
+	 126   	 6   	 Pakiet   	 -111   		 6,25
+	 127   	 6   	 Pakiet   	 -105   		 8,75
+	 128   	 6   	 Pakiet   	 -107   		 8,25
+	 129   	 6   	 Pakiet   	 -105   		 8,50
+	 130   	 6   	 Pakiet   	 -111   		 6,00
+	 131   	 6   	 Pakiet   	 -99   		 9,50
+	 132   	 6   	 Pakiet   	 -116   		 1,75
+	 133   	 6   	 Pakiet   	 -110   		 7,25
+	 134   	 6   	 Pakiet   	 -101   		 9,00
+	 135   	 6   	 Pakiet   	 -106   		 8,50
+	 136   	 6   	 Pakiet   	 -110   		 7,25
+	 137   	 6   	 Pakiet   	 -100   		 9,00
+	 138   	 6   	 Pakiet   	 -95   		 9,75
+	 139   	 6   	 Pakiet   	 -102   		 9,25
+	 140   	 6   	 Pakiet   	 -107   		 7,75
+error: 	Message length does not match length
+	 141   	 6   	 Pakiet   	 -94   		 8,75
+	 142   	 6   	 Pakiet   	 -91   		 9,00
+	 143   	 6   	 Pakiet   	 -95   		 9,25
+	 144   	 6   	 Pakiet   	 -94   		 9,50
+	 145   	 6   	 Pakiet   	 -91   		 9,75
+	 146   	 6   	 Pakiet   	 -103   		 8,00
+	 147   	 6   	 Pakiet   	 -102   		 9,25
+	 148   	 6   	 Pakiet   	 -89   		 9,25
+	 149   	 6   	 Pakiet   	 -94   		 9,75
+	 150   	 6   	 Pakiet   	 -90   		 9,25
+	 151   	 6   	 Pakiet   	 -102   		 9,00
+	 152   	 6   	 Pakiet   	 -95   		 9,25
+	 153   	 6   	 Pakiet   	 -97   		 9,25
+	 154   	 6   	 Pakiet   	 -91   		 9,25
+	 155   	 6   	 Pakiet   	 -100   		 9,50
+	 156   	 6   	 Pakiet   	 -96   		 9,00
+	 157   	 6   	 Pakiet   	 -91   		 9,75
+	 158   	 6   	 Pakiet   	 -86   		 9,25
+	 159   	 6   	 Pakiet   	 -79   		 9,25
+	 160   	 6   	 Pakiet   	 -79   		 9,25
+	 161   	 6   	 Pakiet   	 -79   		 9,25
+	 162   	 6   	 Pakiet   	 -76   		 9,75
+	 163   	 6   	 Pakiet   	 -81   		 9,25
+	 164   	 6   	 Pakiet   	 -74   		 9,50
+	 165   	 6   	 Pakiet   	 -89   		 9,50
+	 166   	 6   	 Pakiet   	 -76   		 9,25
+	 167   	 6   	 Pakiet   	 -74   		 9,50
+	 168   	 6   	 Pakiet   	 -75   		 9,00
+	 169   	 6   	 Pakiet   	 -74   		 9,00
+	 170   	 6   	 Pakiet   	 -69   		 9,25
+	 171   	 6   	 Pakiet   	 -72   		 9,25
+	 172   	 6   	 Pakiet   	 -64   		 8,75
+	 173   	 6   	 Pakiet   	 -64   		 9,50
+	 174   	 6   	 Pakiet   	 -62   		 9,50
+	 175   	 6   	 Pakiet   	 -65   		 9,25
+	 176   	 6   	 Pakiet   	 -59   		 9,25
+	 177   	 6   	 Pakiet   	 -59   		 9,25
+	 178   	 6   	 Pakiet   	 -46   		 9,50
+	 179   	 6   	 Pakiet   	 -27   		 9,75
+	 180   	 6   	 Pakiet   	 -54   		 9,00
