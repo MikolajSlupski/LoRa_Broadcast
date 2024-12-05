@@ -14,6 +14,8 @@
 #include <SPI.h>              // include libraries
 #include <LoRa.h>
 
+#define OUTPUT_POWER 20            // od 2 do 20
+
 const int csPin = 7;          // LoRa radio chip select
 const int resetPin = 6;       // LoRa radio reset
 const int irqPin = 1;         // change for your board; must be a hardware interrupt pin
@@ -59,12 +61,15 @@ void setup() {
   Serial.println("End Setup");
   pinMode(A14, OUTPUT);
 
+  LoRa.setTxPower(OUTPUT_POWER);
+  Serial.println("POWER SET");
+
   Serial.println("LoRa init succeeded.");
 }
 
 void loop() {
-  //Send("Pakiet");
-  onReceive(LoRa.parsePacket());
+  Send("Pakiet");
+  //onReceive(LoRa.parsePacket());
 }
 
 
@@ -73,7 +78,7 @@ void Send(String message){
     sendMessage(message);
     Serial.println("Sending " + message);
     lastSendTime = millis();            // timestamp the message
-    interval = random(2000) + 1000;    // 2-3 seconds
+    interval = random(0) + 5000;    // 2-3 seconds
   }
 }
 
